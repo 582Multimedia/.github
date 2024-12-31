@@ -8,8 +8,6 @@
 
 [<img src="../img/svg/grip-solid.svg" width="12"> Grid](https://github.com/582Multimedia/grid_homepage)
 
-[<img src="../img/svg/link-solid.svg" width="12"> Software Links](https://github.com/582Multimedia/software-links)
-
 [<img src="../img/svg/cubes-solid.svg" width="12"> Blender](https://github.com/582Multimedia/blender)
 
 ## Courses
@@ -18,6 +16,8 @@
 
 [<img src="../img/svg/database-solid.svg" width="12"> Database and Content Management](https://github.com/582Multimedia/582-403-va-web4-db-cms)
 
-## Recommendations
+## Links and Recommendations
+
+[<img src="../img/svg/link-solid.svg" width="12"> Software Links](https://github.com/582Multimedia/software-links)
 
 [<img src="../img/svg/hard-drive-solid.svg" width="12"> Hardware recommendations (SSDs)](https://github.com/582Multimedia/hardware-recommendations)
