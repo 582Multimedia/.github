@@ -10,7 +10,7 @@
 
 [<img src="../img/svg/link-solid.svg" width="12"> Software Links](https://github.com/582Multimedia/software-links)
 
-[<img src="../img/svg/cubes-solid.svg" width="12"> Blender](https://github.com/582Multimedia/blender)
+[<img src="../img/svg/cubes-solid.svg" width="12" bgcolor="white"> Blender](https://github.com/582Multimedia/blender)
 
 ## Courses
 
