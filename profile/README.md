@@ -1,3 +1,5 @@
+![582 Multimedia](../img/logo/logo_582_bil_k.png)
+
 # 👋 Welcome to Vanier College's 582 Multimedia Repo! 👋
 
 ## Courses
