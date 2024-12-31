@@ -1,5 +1,11 @@
 # 👋 Welcome to Vanier College's 582 Multimedia Repo! 👋
 
+## Courses
+
+[<img src="../img/svg/photo-film-solid.svg" width="12"> Photo & Cinematography](https://github.com/582Multimedia/582-104-va-photo-cinema)
+
+[<img src="../img/svg/database-solid.svg" width="12"> Database and Content Management](https://github.com/582Multimedia/582-403-va-web4-db-cms)
+
 ## Guides and references
 
 [<img src="../img/svg/git-alt-brands-solid.svg" width="12"> Git Concepts and Basics](https://github.com/582Multimedia/git-basics)
@@ -9,12 +15,6 @@
 [<img src="../img/svg/grip-solid.svg" width="12"> Grid](https://github.com/582Multimedia/grid_homepage)
 
 [<img src="../img/svg/cubes-solid.svg" width="12"> Blender](https://github.com/582Multimedia/blender)
-
-## Courses
-
-[<img src="../img/svg/photo-film-solid.svg" width="12"> Photo & Cinematography](https://github.com/582Multimedia/582-104-va-photo-cinema)
-
-[<img src="../img/svg/database-solid.svg" width="12"> Database and Content Management](https://github.com/582Multimedia/582-403-va-web4-db-cms)
 
 ## Links and Recommendations
 
