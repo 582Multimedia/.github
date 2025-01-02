@@ -6,7 +6,9 @@
 
 [<img src="../img/svg/photo-film-solid.svg" width="12"> Photo & Cinematography](https://github.com/582Multimedia/582-104-va-photo-cinema)
 
-[<img src="../img/svg/database-solid.svg" width="12"> Database and Content Management](https://github.com/582Multimedia/582-403-va-web4-db-cms)
+[<img src="../img/svg/database-solid.svg" width="12"> Web4: Database and Content Management](https://github.com/582Multimedia/582-403-va-web4-db-cms)
+
+[<img src="../img/svg/cube-solid.svg" width="12"> 3D Printing for Creative Problem Solving](https://github.com/582Multimedia/365-htc-va-3d-creative)
 
 ## Guides and references
 
