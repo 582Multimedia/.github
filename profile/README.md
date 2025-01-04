@@ -1,6 +1,6 @@
 ![582 Multimedia](../img/logo/logo_582_bil_k.png)
 
-# 👋 Welcome to Vanier College's 582 Multimedia Repo! 👋
+# 👋 Welcome to the 582 Multimedia Repo! 👋
 
 <!-- ## :exclamation: DO TO RIGHT AWAY :exclamation:
 
