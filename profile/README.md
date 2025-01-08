@@ -22,9 +22,13 @@ Due to IT's recent change to phase out the security portal, all access are migra
 
 [<img src="../img/svg/git-alt-brands-solid.svg" width="12"> Git Concepts and Basics](https://github.com/582Multimedia/git-basics)
 
+[<img src="../img/svg/git-alt-brands-solid.svg" width="12"> git fundamentals](https://github.com/582Multimedia/web2_cms_animation/blob/main/git_fundamentals.md)
+
 [<img src="../img/svg/house-laptop-solid.svg" width="12"> Web Best Practices](https://github.com/582Multimedia/web-best-practices)
 
-[<img src="../img/svg/grip-solid.svg" width="12"> Grid](https://github.com/582Multimedia/grid_homepage)
+[<img src="../img/svg/grip-solid.svg" width="12"> Grid 2022](https://github.com/582Multimedia/grid_homepage)
+
+[<img src="../img/svg/grip-solid.svg" width="12"> CSS grid fundamentals](https://github.com/582Multimedia/web2_cms_animation/blob/main/CSS_grid_fundamentals.md)
 
 [<img src="../img/svg/cubes-solid.svg" width="12"> Blender](https://github.com/582Multimedia/blender)
 
