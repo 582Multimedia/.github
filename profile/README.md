@@ -16,6 +16,8 @@ Due to IT's recent change to phase out the security portal, all access are migra
 
 [<img src="../img/svg/cube-solid.svg" width="12"> 3D Printing for Creative Problem Solving](https://github.com/582Multimedia/365-htc-va-3d-creative)
 
+[<img src="../img/svg/html5-brands-solid.svg" width="12"> Web2: CMS & Animation (Bruce)](https://github.com/582Multimedia/web2_cms_animation)
+
 ## Guides and references
 
 [<img src="../img/svg/git-alt-brands-solid.svg" width="12"> Git Concepts and Basics](https://github.com/582Multimedia/git-basics)
