@@ -16,7 +16,7 @@ Due to IT's recent change to phase out the security portal, all access are migra
 
 [<img src="../img/svg/cube-solid.svg" width="12"> 3D Printing for Creative Problem Solving](https://github.com/582Multimedia/365-htc-va-3d-creative)
 
-[<img src="../img/svg/html5-brands-solid.svg" width="12"> Web2: CMS & Animation (Bruce)](https://github.com/582Multimedia/web2_cms_animation)
+[<img src="../img/svg/html5-brands-solid.svg" width="12"> Web2: CMS & Animation (Bruce)](https://github.com/582Multimedia/web2-cms-animation)
 
 ## Guides and references
 
@@ -38,4 +38,4 @@ Due to IT's recent change to phase out the security portal, all access are migra
 
 ## archived links
 
-[<img src="../img/svg/grip-solid.svg" width="12"> Grid 2022](https://github.com/582Multimedia/grid_homepage)
+[<img src="../img/svg/grip-solid.svg" width="12"> Web2 homepage details](https://github.com/582Multimedia/web2-homepage)
