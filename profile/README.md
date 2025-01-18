@@ -19,6 +19,7 @@ Due to IT's recent change to phase out the security portal, all access are migra
 [<img src="../img/svg/html5-brands-solid.svg" width="12"> Web2: CMS & Animation (Bruce)](https://github.com/582Multimedia/web2-cms-animation)
 
 ## Guides and references
+[<img src="../img/svg/git-alt-brands-solid.svg" width="12"> Sign Up for GitHub](https://github.com/582Multimedia/GitHub-signup)
 
 [<img src="../img/svg/git-alt-brands-solid.svg" width="12"> Git Concepts and Basics](https://github.com/582Multimedia/git-basics)
 
