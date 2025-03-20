@@ -18,6 +18,8 @@ Due to IT's recent change to phase out the security portal, all access are migra
 
 [<img src="../img/svg/html5-brands-solid.svg" width="12"> Web2: CMS & Animation (Bruce)](https://github.com/582Multimedia/web2-cms-animation)
 
+[<img src="../img/svg/cube-solid.svg" width="12"> Emerging Tech 3: AR & VR (Peter O)](https://github.com/582Multimedia/VR-AR-projects-ws2025/)
+
 ## Guides and references
 [<img src="../img/svg/git-alt-brands-solid.svg" width="12"> Sign Up for GitHub](https://github.com/582Multimedia/GitHub-signup)
 
