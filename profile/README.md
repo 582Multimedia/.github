@@ -10,6 +10,8 @@ Due to IT's recent change to phase out the security portal, all access are migra
 
 ## Courses
 
+[:raised_hands: Web5: Web Applications](https://github.com/582Multimedia/web5-web-apps)
+
 [<img src="../img/svg/photo-film-solid.svg" width="12"> Photo & Cinematography](https://github.com/582Multimedia/582-104-va-photo-cinema)
 
 [<img src="../img/svg/database-solid.svg" width="12"> Web4: Database and Content Management](https://github.com/582Multimedia/582-403-va-web4-db-cms)
