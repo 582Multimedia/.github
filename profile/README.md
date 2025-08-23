@@ -12,11 +12,11 @@ Due to IT's recent change to phase out the security portal, all access are migra
 
 [:bulb: Web Best Practices](https://github.com/582Multimedia/web-best-practices)
 
-[Sandbox](https://sandbox.582multi.media/)
+[:art: Sandbox](https://sandbox.582multi.media/)
 
 ## Courses (Current)
 
-[:movie_camera: Photo & Cinematography](https://github.com/582Multimedia/582-104-va-photo-cinema)
+[:clapper: Photo & Cinematography](https://github.com/582Multimedia/582-104-va-photo-cinema)
 
 [:raised_hands: Web5: Web Applications](https://github.com/582Multimedia/web5-web-apps)
 
