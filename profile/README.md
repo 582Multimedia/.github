@@ -8,21 +8,30 @@
 
 Due to IT's recent change to phase out the security portal, all access are migrated to Microsoft's security system for login and password recovery. Make sure to do add your security questions to your vanier account **ASAP**. -->
 
-## Courses
+## Quicklinks
+
+[:bulb: Web Best Practices](https://github.com/582Multimedia/web-best-practices)
+
+[Sandbox](https://sandbox.582multi.media/)
+
+## Courses (Current)
+
+[:movie_camera: Photo & Cinematography](https://github.com/582Multimedia/582-104-va-photo-cinema)
 
 [:raised_hands: Web5: Web Applications](https://github.com/582Multimedia/web5-web-apps)
 
-[<img src="../img/svg/photo-film-solid.svg" width="12"> Photo & Cinematography](https://github.com/582Multimedia/582-104-va-photo-cinema)
+## Courses (Past)
 
-[<img src="../img/svg/database-solid.svg" width="12"> Web4: Database and Content Management](https://github.com/582Multimedia/582-403-va-web4-db-cms)
+<!-- [:card_index: Web4: Database and Content Management](https://github.com/582Multimedia/582-403-va-web4-db-cms) -->
 
-[<img src="../img/svg/cube-solid.svg" width="12"> 3D Printing for Creative Problem Solving](https://github.com/582Multimedia/365-htc-va-3d-creative)
+[:wrench: 3D Printing for Creative Problem Solving](https://github.com/582Multimedia/365-htc-va-3d-creative)
 
 [<img src="../img/svg/html5-brands-solid.svg" width="12"> Web2: CMS & Animation (Bruce)](https://github.com/582Multimedia/web2-cms-animation)
 
 [<img src="../img/svg/cube-solid.svg" width="12"> Emerging Tech 3: AR & VR (Peter O)](https://github.com/582Multimedia/VR-AR-projects-ws2025/)
 
 ## Guides and references
+
 [<img src="../img/svg/git-alt-brands-solid.svg" width="12"> Sign Up for GitHub](https://github.com/582Multimedia/GitHub-signup)
 
 [<img src="../img/svg/git-alt-brands-solid.svg" width="12"> Git Concepts and Basics](https://github.com/582Multimedia/git-basics)
