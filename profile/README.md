@@ -42,7 +42,7 @@ You have two possibilities.
  - a 2-week trip to Lens, near Vimy Ridge, for a multimedia and web project
  - a full semester in the winter at the IUT Vélizy, in Versailles near Paris.
 
-[info échange](https://582multi.media/echange/)
+[infos échanges](https://582multi.media/echange/)
 
 
 ## Courses (Past)
