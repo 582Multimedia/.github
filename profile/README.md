@@ -20,6 +20,8 @@ Due to IT's recent change to phase out the security portal, all access are migra
 
 [:raised_hands: Web5: Web Applications](https://github.com/582Multimedia/web5-web-apps)
 
+[:sparkles: Motion Graphics](https://github.com/582Multimedia/motion-graphics/)
+
 ## Courses (Past)
 
 <!-- [:card_index: Web4: Database and Content Management](https://github.com/582Multimedia/582-403-va-web4-db-cms) -->
