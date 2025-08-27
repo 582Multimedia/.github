@@ -14,6 +14,8 @@ Due to IT's recent change to phase out the security portal, all access are migra
 
 [:art: Sandbox](https://sandbox.582multi.media/)
 
+
+
 ## Courses (Current)
 
 [:clapper: Photo & Cinematography](https://github.com/582Multimedia/582-104-va-photo-cinema)
@@ -21,6 +23,25 @@ Due to IT's recent change to phase out the security portal, all access are migra
 [:raised_hands: Web5: Web Applications](https://github.com/582Multimedia/web5-web-apps)
 
 [:sparkles: Motion Graphics](https://github.com/582Multimedia/motion-graphics/)
+
+
+## Capyskills
+
+[Capibility.com](https://capibility.com/)
+
+[AI Capy](https://transversal.triangulai.com/)
+
+[Capyskills grids](https://docs.google.com/spreadsheets/d/18iX7gnHvc09U_KkUmMC8eyVv4WE6quUvTEX9V2TahMQ/edit?gid=146427341#gid=146427341)
+
+
+## les échanges en france
+
+You have two possibilities. 
+ - a 2-week trip to Lens, near Vimy Ridge, for a multimedia and web project
+ - a full semester in the winter at the IUT Vélizy, in Versailles near Paris.
+
+[info échange](https://582multi.media/echange/)
+
 
 ## Courses (Past)
 
