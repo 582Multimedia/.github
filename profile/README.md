@@ -31,10 +31,12 @@ Due to IT's recent change to phase out the security portal, all access are migra
 
 [AI Capy](https://transversal.triangulai.com/)
 
+[AI Capy SMART Goals](https://transversal.triangulai.com/smartgoals/)
+
 [Capyskills grids](https://docs.google.com/spreadsheets/d/18iX7gnHvc09U_KkUmMC8eyVv4WE6quUvTEX9V2TahMQ/edit?gid=146427341#gid=146427341)
 
 
-## les échanges en france
+## :fr: les échanges en france
 
 You have two possibilities. 
  - a 2-week trip to Lens, near Vimy Ridge, for a multimedia and web project
