@@ -14,6 +14,8 @@ Due to IT's recent change to phase out the security portal, all access are migra
 
 [:art: Sandbox](https://sandbox.582multi.media/)
 
+[shame (server management)](shame.md)
+
 
 
 ## Courses (Current)
