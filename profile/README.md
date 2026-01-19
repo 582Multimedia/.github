@@ -20,11 +20,9 @@ Due to IT's recent change to phase out the security portal, all access are migra
 
 ## Courses (Current)
 
-[:clapper: Photo & Cinematography](https://github.com/582Multimedia/photo-cinema)
+[:card_index: Web4: Database and Content Management](https://github.com/582Multimedia/582-403-va-web4-db-cms)
 
-[:raised_hands: Web5: Web Applications](https://github.com/582Multimedia/web5-web-apps)
-
-[:sparkles: Motion Graphics](https://github.com/582Multimedia/motion-graphics/)
+[:video_camera: Video & Audio 2](https://github.com/582Multimedia/video-audio-2)
 
 
 ## Capyskills
@@ -50,6 +48,12 @@ You have two possibilities.
 ## Courses (Past)
 
 <!-- [:card_index: Web4: Database and Content Management](https://github.com/582Multimedia/582-403-va-web4-db-cms) -->
+
+[:clapper: Photo & Cinematography](https://github.com/582Multimedia/photo-cinema)
+
+[:raised_hands: Web5: Web Applications](https://github.com/582Multimedia/web5-web-apps)
+
+[:sparkles: Motion Graphics](https://github.com/582Multimedia/motion-graphics/)
 
 [:wrench: 3D Printing for Creative Problem Solving](https://github.com/582Multimedia/365-htc-va-3d-creative)
 
